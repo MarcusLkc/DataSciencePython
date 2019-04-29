@@ -48,3 +48,34 @@ for example here is a simple graph of the highest reviewed wines using a scatter
 To add more fun to this project I added a svg of wine countries listed on a map
 
 <img src="Week_1_Pandas/world4.svg" width=300 height=300>
+
+
+# Week 3
+Week 3 was mostly spent reviewing probability and Statistics provided by Khan Academy. This course was useful for remmembering the specific attributes for different distributions and the formulas used.
+As well as give an introduction to Linear Regression in addition to many
+many permutation and combinations problems.
+
+https://www.khanacademy.org/math/statistics-probability
+
+
+
+# Week 4
+
+Spent Week 4 starting out with the Computing for Data Analysis courses presented by EDX
+https://courses.edx.org/courses/course-v1:GTx+CSE6040x+1T2019/course/
+
+this course mainly reviewed concepts learned from previous courses while laying the building blocks to modeling Statisical Algorithms using Python.
+
+One of those algorithms included using Bayes Rule to predict which items of a shopping cart are most likely to appear together.
+
+In addition I wanted to learn more about the matplotlib and pandas API
+
+This desire led me to complete the second course in the Applied Data Science specialization provided on Coursera
+https://www.coursera.org/learn/python-plotting?specialization=data-science-python
+
+The assignments here give you alot of freedom to create great visualizations such as
+
+
+[Week4 Code and Materials](Week_4_Matplotlib_Pandas_Coursera)
+
+<img src="Week_4_Matplotlib_Pandas_Coursera/weather.svg" width=600 height=400>
